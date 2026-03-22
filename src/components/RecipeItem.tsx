@@ -10,7 +10,7 @@ function RecipeItem({ recipe }: RecipeItemProps) {
       <h3>{recipe.name}</h3>
 
       <p>
-        <strong>Ingredients:</strong> {recipe.ingredients}
+        <strong>Ingredients:</strong> {recipe.ingredients.join(", ")}
       </p>
 
       <p>

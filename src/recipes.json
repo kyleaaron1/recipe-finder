@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti",
+    "ingredients": ["pasta", "tomato sauce"],
+    "instructions": "Cook pasta and add sauce."
+  },
+  {
+    "id": 2,
+    "name": "Tacos",
+    "ingredients": ["tortilla", "beef"],
+    "instructions": "Cook beef and assemble tacos."
+  },
+  {
+    "id": 3,
+    "name": "Grilled Cheese",
+    "ingredients": ["bread", "cheese", "butter"],
+    "instructions": "Grill until golden brown."
+  }
+]
